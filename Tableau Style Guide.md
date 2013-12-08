@@ -289,6 +289,8 @@ of your dashboard.
 *  Publish/Save with the worksheet you want users to start with
 open.
 
+*  When publishing to Tableau Server and scheduling a split incremental and full refresh schedule, be aware that  data sources which have not been configured for incremental refreshes (no unique key identified) will not update until the next _full_ refresh.
+
 *  File Names: Do not put version numbers in your file name when
 publishing (users don't need to know your version control
 issues/practices).
