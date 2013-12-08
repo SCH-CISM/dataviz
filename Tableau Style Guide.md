@@ -2,50 +2,51 @@ CISM Tableau Style Guide
 
 Contents
 
-[Purpose. 1](#_Toc372024209)
+[Purpose](#purpose)
 
-[When not to use Tableau. 1](#_Toc372024210)
+[When not to use Tableau](#when not to use tableau)
 
-[Style and Design Guidance. 1](#_Toc372024211)
+[Style and Design Guidance](#style and design guidance)
 
-[Dashboard Purpose. 1](#_Toc372024212)
+[Dashboard Purpose](#dashboard purpose)
 
-[Define Your Purpose at the Start. 1](#_Toc372024213)
+[Define Your Purpose at the Start](#define your purpose at the start)
 
-[Data Honesty. 2](#_Toc372024214)
+[Data Honesty](#data honesty)
 
-[Basic Dashboard Design. 2](#_Toc372024215)
+[Basic Dashboard Design](#basic dashboard design)
 
-[Filters. 2](#_Toc372024216)
+[Filters](#filters)
 
-[Navigability. 2](#_Toc372024217)
+[Navigability](#navigability)
 
-[Prepare for printing. 2](#_Toc372024218)
+[Prepare for printing](#prepare for printing)
 
-[Data Good Practices. 3](#_Toc372024219)
+[Data Good Practices](#data good practices)
 
-[Worksheet Design. 3](#_Toc372024220)
+[Worksheet Design](#worksheet design)
 
-[Choosing the Appropriate Graph Type. 3](#_Toc372024221)
+[Choosing the Appropriate Graph Type](#choosing the appropriate graph type)
 
-[Colors. 3](#_Toc372024222)
+[Colors](#colors)
 
-[Fonts. 3](#_Toc372024223)
+[Fonts](#fonts)
 
-[Tooltips. 3](#_Toc372024224)
+[Tooltips](#tooltips)
 
-[Worksheet Title Fields. 3](#_Toc372024225)
+[Worksheet Title Fields](#worksheet title fields)
 
-[Field Formatting. 4](#_Toc372024226)
+[Field Formatting](#field formatting)
 
-[Sharing Your Work. 4](#_Toc372024227)
+[Sharing Your Work](#sharing your work)
 
-[Performance Optimizations. 4](#_Toc372024228)
+[Performance Optimizations](#performance optimizations)
 
-[References. 5](#_Toc372024229)
+[References](#references)
 
 ******
 
+<a name="purpose"/>
 Purpose
 =======
 
@@ -81,6 +82,7 @@ design is a good target, presenting a workbook or dashboard to a request
 from a non-technical stakeholder, unless specifically requested, will
 confuse rather than add clarity.
 
+<a name="style and desing guidance"/>
 Style and Design Guidance
 =========================
 
@@ -126,6 +128,7 @@ elements or other incomplete observations that may influence your data)?
 A cover page with key assumptions can go a long way to establishing
 trust with your audience, particularly for difficult messages.
 
+<a name="basic dashboard design"/>
 Basic Dashboard Design
 ----------------------
 
@@ -263,6 +266,7 @@ be called for rather than a visualization.
 *  Set formats, sorting, etc. on the dimension itself. This saves
 having to redo the formatting on individual sheets).
 
+<a name="sharing your work"/>
 Sharing Your Work
 -----------------
 
@@ -282,6 +286,7 @@ open.
 publishing (users don't need to know your version control
 issues/practices).
 
+<a name="performance optimizations"/>
 Performance Optimizations
 -------------------------
 
@@ -293,6 +298,7 @@ Performance Optimizations
 
 ******
 
+<a name="references"/>
 References
 ==========
 
