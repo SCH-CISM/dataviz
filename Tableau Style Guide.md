@@ -218,6 +218,8 @@ choice than vertical bars.
 Matrix, found at
 [http://www.perceptualedge.com/articles/misc/Graph\_Selection\_Matrix.pdf](http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf).
 
+*  Don't use dual axis charts with different ranges. They encourage conclusions to be made about cross overs when no relation exists. Just changing the scale of one of the axis can make points cross at different locations. A beetter option is to use two panel charts.
+
 <a name="colors"/>
 ### Colors
 
