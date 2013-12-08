@@ -218,6 +218,7 @@ choice than vertical bars.
 Matrix, found at
 [http://www.perceptualedge.com/articles/misc/Graph\_Selection\_Matrix.pdf](http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf).
 
+<a name="colors"/>
 ### Colors
 
 *  Watch out for the use of color, it doesn't print well.
@@ -226,6 +227,7 @@ Matrix, found at
 
 *  Don't use more than five colors.
 
+<a name="fonts"/>
 ### Fonts
 
 *  Use the default fonts.
@@ -236,6 +238,7 @@ attribute versus surrounding text. For example, good choices such as
 **bold**, *italic*, underline, or color as opposed to overly noisy
 ***bold*** or colorful text.
 
+<a name="tooltips"/>
 ### Tooltips
 
 *  Edit these to be meaningful for your users.
@@ -244,6 +247,7 @@ attribute versus surrounding text. For example, good choices such as
 but should probably be something else "Number of Users", "patient
 count", etc.
 
+<a name="worksheet title fields"/>
 ### Worksheet Title Fields
 
 The worksheet titles from the tabs automatically populate the title
@@ -253,6 +257,7 @@ edited manually, this makes later finding of the worksheets that
 comprise your dashboard very difficult if the tab is no longer named the
 same as the title.
 
+<a name="field formatting"/>
 ### Field Formatting
 
 *  Percentages should default to no more than one decimal place
@@ -265,6 +270,8 @@ be called for rather than a visualization.
 
 *  Set formats, sorting, etc. on the dimension itself. This saves
 having to redo the formatting on individual sheets).
+
+* For header field titles, name the field "Foo Header" the "Header" name indicates the field purpose. TO DO: Examine the folder hierararchy options of Tableau 8.1 to put these sorts of structural elements in one place.
 
 <a name="sharing your work"/>
 Sharing Your Work
